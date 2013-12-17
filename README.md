@@ -1,4 +1,3 @@
-wp-plugin-admin-mods
-====================
+##### wp-plugin-admin-mods
 
-Modification of the admin site in WordPress (works with 3.7.x and 3.8
+> Modification of the admin site in WordPress (works with 3.7.x and 3.8
